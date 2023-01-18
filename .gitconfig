@@ -2,14 +2,6 @@
 	email = mort1skoda@gmail.com
 	name = mort1skoda
 
-#[credential]
-#	helper = manager
-#	helper=C:\\Program\ Files\\Git\\mingw64\\libexec\\git-core\\git-credential-manager.exe
-	#helper = C:\Program Files\Git\mingw64\libexec\git-core\git-credential-manager.exe
-
-	#helper = git-credential-manager.exe
-
-
 [credential "https://example.com"]
 	provider = github
 
