@@ -26,8 +26,9 @@ doskey   q=exit
 ::---------------------------------------------}}}
 
 ::--- alias git -----------{{{
-doskey  gs=git status
+doskey  gp=git push 
 doskey  gr=git remote -v
+doskey  gs=git status
 ::-------------------------}}}
 
 ::--- alias show all my aliases ----------{{{
