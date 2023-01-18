@@ -28,8 +28,9 @@ filetype indent on
 syntax on
 "-------------}}}
 
-"--- MAPPINGS -----------------------------------------------{{{
+"--- mappings -----------------------------------------------{{{
 
+" find in document use 'n' to find next
 nnoremap <C-f> /
 
 let mapleader = ","
