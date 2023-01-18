@@ -1,4 +1,4 @@
-git push
+gitPush.bat
 
 exit
 
