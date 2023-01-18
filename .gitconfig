@@ -3,7 +3,10 @@
 	name = mort1skoda
 
 [credential]
+	helper = manager-core
+#	helper=C:\\Program\ Files\\Git\\mingw64\\libexec\\git-core\\git-credential-manager.exe
 	#helper = C:\Program Files\Git\mingw64\libexec\git-core\git-credential-manager.exe
 
-	helper = git-credential-manager.exe
+	#helper = git-credential-manager.exe
+
 
