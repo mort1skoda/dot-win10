@@ -26,7 +26,8 @@ doskey   q=exit
 ::---------------------------------------------}}}
 
 ::--- alias git -----------{{{
-doskey  gp=git push 
+doskey  gp=gitPush.bat
+
 doskey  gr=git remote -v
 doskey  gs=git status
 ::-------------------------}}}

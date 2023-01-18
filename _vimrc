@@ -45,7 +45,7 @@ nnoremap <C-q> :wq
 inoremap <C-q> <esc>:wq
 
 nnoremap <C-s> :w<cr>:source _vimrc<cr>:echo'Normal->Normal save source'<cr>
-inoremap <C-s> <esc>:w<cr>:source _vimrc<cr>:echo'Insert->Normal save source'<cr>
+inoremap <C-s> <esc>:w<cr>l:source _vimrc<cr>:echo'Insert->Normal save source'<cr>
 
 nnoremap o o<esc>:echo'open line below'<cr>
 nnoremap O O<esc>:echo'Open line above'<cr>
