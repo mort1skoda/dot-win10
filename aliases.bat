@@ -10,8 +10,8 @@ doskey  mv=ren
 doskey  rm=del $*
 doskey   sa=aliases.bat
 doskey   sp=profile.bat
-doskey   l=dir /ah
-::doskey  la=dir /a
+doskey   l=dir /o
+doskey  la=dir /ah
 ::---------------------------------------------}}}
 
 ::--- alias edit with vim --------------------{{{

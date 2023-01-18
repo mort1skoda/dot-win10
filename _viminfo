@@ -21,7 +21,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1674035903,,"wq"
+|2,0,1674036595,,"wq"
 :q
 |2,0,1674035586,,"q"
 :!dir
@@ -179,40 +179,142 @@ $
 	
 |3,0,9,1,1,0,1674033576,""
 ""-	CHAR	0
-	h
-|3,1,36,0,1,0,1674035753,"h"
+	ah
+|3,1,36,0,1,0,1674036487,"ah"
 
 # File marks:
-'0  29  0  ~\aliases.bat
-|4,48,29,0,1674035903,"~\\aliases.bat"
-'1  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
-|4,49,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
-'2  79  0  ~\_vimrc
-|4,50,79,0,1674035582,"~\\_vimrc"
-'3  14  1  ~\aliases.bat
-|4,51,14,1,1674035398,"~\\aliases.bat"
-'4  14  1  ~\aliases.bat
-|4,52,14,1,1674035398,"~\\aliases.bat"
-'5  23  0  ~\.gitignore
-|4,53,23,0,1674035210,"~\\.gitignore"
-'6  22  0  ~\.gitignore
-|4,54,22,0,1674035190,"~\\.gitignore"
-'7  22  0  ~\.gitignore
-|4,55,22,0,1674035190,"~\\.gitignore"
-'8  16  6  ~\.gitignore
-|4,56,16,6,1674035146,"~\\.gitignore"
-'9  16  6  ~\.gitignore
-|4,57,16,6,1674035146,"~\\.gitignore"
+'0  23  7  ~\.gitignore
+|4,48,23,7,1674036595,"~\\.gitignore"
+'1  24  0  ~\.gitignore
+|4,49,24,0,1674036564,"~\\.gitignore"
+'2  24  0  ~\.gitignore
+|4,50,24,0,1674036564,"~\\.gitignore"
+'3  13  16  ~\aliases.bat
+|4,51,13,16,1674036492,"~\\aliases.bat"
+'4  29  0  ~\aliases.bat
+|4,52,29,0,1674035903,"~\\aliases.bat"
+'5  29  0  ~\aliases.bat
+|4,53,29,0,1674035903,"~\\aliases.bat"
+'6  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,54,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+'7  79  0  ~\_vimrc
+|4,55,79,0,1674035582,"~\\_vimrc"
+'8  14  1  ~\aliases.bat
+|4,56,14,1,1674035398,"~\\aliases.bat"
+'9  14  1  ~\aliases.bat
+|4,57,14,1,1674035398,"~\\aliases.bat"
 
 # Jumplist (newest first):
+-'  23  7  ~\.gitignore
+|4,39,23,7,1674036595,"~\\.gitignore"
+-'  1  0  ~\.gitignore
+|4,39,1,0,1674036583,"~\\.gitignore"
+-'  24  0  ~\.gitignore
+|4,39,24,0,1674036564,"~\\.gitignore"
+-'  24  0  ~\.gitignore
+|4,39,24,0,1674036564,"~\\.gitignore"
+-'  1  0  ~\.gitignore
+|4,39,1,0,1674036535,"~\\.gitignore"
+-'  13  16  ~\aliases.bat
+|4,39,13,16,1674036492,"~\\aliases.bat"
+-'  13  16  ~\aliases.bat
+|4,39,13,16,1674036492,"~\\aliases.bat"
+-'  13  16  ~\aliases.bat
+|4,39,13,16,1674036492,"~\\aliases.bat"
+-'  13  16  ~\aliases.bat
+|4,39,13,16,1674036492,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674036459,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674036459,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674036459,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674036459,"~\\aliases.bat"
 -'  29  0  ~\aliases.bat
 |4,39,29,0,1674035903,"~\\aliases.bat"
+-'  29  0  ~\aliases.bat
+|4,39,29,0,1674035903,"~\\aliases.bat"
+-'  29  0  ~\aliases.bat
+|4,39,29,0,1674035903,"~\\aliases.bat"
+-'  29  0  ~\aliases.bat
+|4,39,29,0,1674035903,"~\\aliases.bat"
+-'  29  0  ~\aliases.bat
+|4,39,29,0,1674035903,"~\\aliases.bat"
+-'  29  0  ~\aliases.bat
+|4,39,29,0,1674035903,"~\\aliases.bat"
+-'  29  0  ~\aliases.bat
+|4,39,29,0,1674035903,"~\\aliases.bat"
+-'  29  0  ~\aliases.bat
+|4,39,29,0,1674035903,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674035630,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674035630,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674035630,"~\\aliases.bat"
 -'  1  0  ~\aliases.bat
 |4,39,1,0,1674035630,"~\\aliases.bat"
 -'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
 |4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
 -'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
 |4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  37  6  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,37,6,1674035586,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674035582,"~\\_vimrc"
 -'  79  0  ~\_vimrc
 |4,39,79,0,1674035582,"~\\_vimrc"
 -'  79  0  ~\_vimrc
@@ -221,6 +323,32 @@ $
 |4,39,14,1,1674035398,"~\\aliases.bat"
 -'  14  1  ~\aliases.bat
 |4,39,14,1,1674035398,"~\\aliases.bat"
+-'  14  1  ~\aliases.bat
+|4,39,14,1,1674035398,"~\\aliases.bat"
+-'  14  1  ~\aliases.bat
+|4,39,14,1,1674035398,"~\\aliases.bat"
+-'  14  1  ~\aliases.bat
+|4,39,14,1,1674035398,"~\\aliases.bat"
+-'  14  1  ~\aliases.bat
+|4,39,14,1,1674035398,"~\\aliases.bat"
+-'  14  1  ~\aliases.bat
+|4,39,14,1,1674035398,"~\\aliases.bat"
+-'  14  1  ~\aliases.bat
+|4,39,14,1,1674035398,"~\\aliases.bat"
+-'  14  1  ~\aliases.bat
+|4,39,14,1,1674035398,"~\\aliases.bat"
+-'  14  1  ~\aliases.bat
+|4,39,14,1,1674035398,"~\\aliases.bat"
+-'  14  1  ~\aliases.bat
+|4,39,14,1,1674035398,"~\\aliases.bat"
+-'  14  1  ~\aliases.bat
+|4,39,14,1,1674035398,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674035357,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674035357,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674035357,"~\\aliases.bat"
 -'  1  0  ~\aliases.bat
 |4,39,1,0,1674035357,"~\\aliases.bat"
 -'  23  0  ~\.gitignore
@@ -231,6 +359,24 @@ $
 |4,39,23,0,1674035210,"~\\.gitignore"
 -'  23  0  ~\.gitignore
 |4,39,23,0,1674035210,"~\\.gitignore"
+-'  23  0  ~\.gitignore
+|4,39,23,0,1674035210,"~\\.gitignore"
+-'  23  0  ~\.gitignore
+|4,39,23,0,1674035210,"~\\.gitignore"
+-'  23  0  ~\.gitignore
+|4,39,23,0,1674035210,"~\\.gitignore"
+-'  23  0  ~\.gitignore
+|4,39,23,0,1674035210,"~\\.gitignore"
+-'  23  0  ~\.gitignore
+|4,39,23,0,1674035210,"~\\.gitignore"
+-'  1  0  ~\.gitignore
+|4,39,1,0,1674035196,"~\\.gitignore"
+-'  1  0  ~\.gitignore
+|4,39,1,0,1674035196,"~\\.gitignore"
+-'  1  0  ~\.gitignore
+|4,39,1,0,1674035196,"~\\.gitignore"
+-'  1  0  ~\.gitignore
+|4,39,1,0,1674035196,"~\\.gitignore"
 -'  1  0  ~\.gitignore
 |4,39,1,0,1674035196,"~\\.gitignore"
 -'  1  0  ~\.gitignore
@@ -255,164 +401,31 @@ $
 |4,39,22,0,1674035190,"~\\.gitignore"
 -'  22  0  ~\.gitignore
 |4,39,22,0,1674035190,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035182,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035182,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035182,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035182,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  16  6  ~\.gitignore
-|4,39,16,6,1674035146,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035126,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035126,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035126,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035126,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
 -'  22  0  ~\.gitignore
-|4,39,22,0,1674035097,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
+|4,39,22,0,1674035190,"~\\.gitignore"
 -'  22  0  ~\.gitignore
-|4,39,22,0,1674035097,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
--'  22  0  ~\.gitignore
-|4,39,22,0,1674035097,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
--'  22  0  ~\.gitignore
-|4,39,22,0,1674035097,"~\\.gitignore"
--'  21  0  ~\.gitignore
-|4,39,21,0,1674035097,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035078,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035078,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035078,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674035078,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674034891,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674034891,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674034891,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674034891,"~\\.gitignore"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
--'  1  0  ~\.gitconfig
-|4,39,1,0,1674034866,"~\\.gitconfig"
+|4,39,22,0,1674035190,"~\\.gitignore"
 
 # History of marks within files (newest to oldest):
 
+> ~\.gitignore
+	*	1674036593	0
+	"	23	7
+	^	24	0
+	.	23	8
+	+	1	9
+	+	20	0
+	+	21	11
+	+	15	0
+	+	16	6
+	+	22	11
+	+	23	8
+
 > ~\aliases.bat
-	*	1674035901	0
-	"	29	0
-	^	29	25
-	.	29	20
+	*	1674036490	0
+	"	13	16
+	^	13	17
+	.	13	16
 	+	1	1
 	+	2	1
 	+	2	2
@@ -450,6 +463,8 @@ $
 	+	32	0
 	+	30	0
 	+	29	20
+	+	14	17
+	+	13	16
 
 > ~\Documents\AutoHotkey\myHotKeys.ahk
 	*	1674035584	0
@@ -557,18 +572,6 @@ $
 	+	69	14
 	a	58	0
 	z	13	0
-
-> ~\.gitignore
-	*	1674035210	0
-	"	23	0
-	^	23	0
-	.	22	11
-	+	1	9
-	+	20	0
-	+	21	11
-	+	15	0
-	+	16	6
-	+	22	11
 
 > ~\.gitconfig
 	*	1674034856	0
