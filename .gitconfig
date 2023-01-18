@@ -1,3 +1,8 @@
 [user]
 	email = mort1skoda@gmail.com
 	name = mort1skoda
+
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe
+
+
