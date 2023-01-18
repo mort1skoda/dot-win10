@@ -9,6 +9,7 @@ doskey  cp=copy
 doskey  mv=ren
 doskey  rm=del $*
 doskey   sa=aliases.bat
+doskey   sb=bashrc.bat
 doskey   sp=profile.bat
 doskey   l=dir /o
 doskey  la=dir /ah

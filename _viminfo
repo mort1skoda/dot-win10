@@ -21,11 +21,11 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1674037386,,"wq"
-:q
-|2,0,1674037357,,"q"
+|2,0,1674039790,,"wq"
 :e _vimrc
-|2,0,1674037013,,"e _vimrc"
+|2,0,1674039102,,"e _vimrc"
+:q
+|2,0,1674038291,,"q"
 :!dir
 |2,0,1674034676,,"!dir"
 :!
@@ -183,36 +183,134 @@ $
 |3,1,36,0,1,0,1674037182," asdf push "
 
 # File marks:
-'0  29  5  ~\aliases.bat
-|4,48,29,5,1674037386,"~\\aliases.bat"
-'1  1  0  ~\aliases.bata
-|4,49,1,0,1674037357,"~\\aliases.bata"
-'2  48  20  ~\_vimrc
-|4,50,48,20,1674037308,"~\\_vimrc"
-'3  3  7  ~\.gitignore
-|4,51,3,7,1674036923,"~\\.gitignore"
-'4  1  12  ~\gitPush.bat
-|4,52,1,12,1674036807,"~\\gitPush.bat"
-'5  7  0  ~\gitPush.bat
-|4,53,7,0,1674036776,"~\\gitPush.bat"
-'6  6  0  ~\gitPush.bat
-|4,54,6,0,1674036776,"~\\gitPush.bat"
-'7  5  0  ~\gitPush.bat
-|4,55,5,0,1674036721,"~\\gitPush.bat"
-'8  5  0  ~\gitPush.bat
-|4,56,5,0,1674036721,"~\\gitPush.bat"
-'9  4  0  ~\gitPush.bat
-|4,57,4,0,1674036721,"~\\gitPush.bat"
+'0  12  21  ~\aliases.bat
+|4,48,12,21,1674039790,"~\\aliases.bat"
+'1  79  0  ~\_vimrc
+|4,49,79,0,1674039108,"~\\_vimrc"
+'2  20  0  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,50,20,0,1674038291,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+'3  30  5  ~\aliases.bat
+|4,51,30,5,1674037386,"~\\aliases.bat"
+'4  29  5  ~\aliases.bat
+|4,52,29,5,1674037386,"~\\aliases.bat"
+'5  1  0  ~\aliases.bata
+|4,53,1,0,1674037357,"~\\aliases.bata"
+'6  48  20  ~\_vimrc
+|4,54,48,20,1674037308,"~\\_vimrc"
+'7  48  20  ~\_vimrc
+|4,55,48,20,1674037308,"~\\_vimrc"
+'8  3  7  ~\.gitignore
+|4,56,3,7,1674036923,"~\\.gitignore"
+'9  1  12  ~\gitPush.bat
+|4,57,1,12,1674036807,"~\\gitPush.bat"
 
 # Jumplist (newest first):
+-'  12  21  ~\aliases.bat
+|4,39,12,21,1674039790,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674039732,"~\\aliases.bat"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674039108,"~\\_vimrc"
+-'  79  0  ~\_vimrc
+|4,39,79,0,1674039108,"~\\_vimrc"
+-'  1  0  ~\_vimrc
+|4,39,1,0,1674039102,"~\\_vimrc"
+-'  1  0  ~\_vimrc
+|4,39,1,0,1674039102,"~\\_vimrc"
+-'  20  0  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,20,0,1674038291,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  20  0  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,20,0,1674038291,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  20  0  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,20,0,1674038291,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  20  0  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,20,0,1674038291,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  1  0  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,1,0,1674037704,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  1  0  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,1,0,1674037704,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  1  0  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,1,0,1674037704,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  1  0  ~\Documents\AutoHotkey\myHotKeys.ahk
+|4,39,1,0,1674037704,"~\\Documents\\AutoHotkey\\myHotKeys.ahk"
+-'  30  5  ~\aliases.bat
+|4,39,30,5,1674037386,"~\\aliases.bat"
 -'  29  5  ~\aliases.bat
 |4,39,29,5,1674037386,"~\\aliases.bat"
+-'  29  5  ~\aliases.bat
+|4,39,29,5,1674037386,"~\\aliases.bat"
+-'  29  5  ~\aliases.bat
+|4,39,29,5,1674037386,"~\\aliases.bat"
+-'  29  5  ~\aliases.bat
+|4,39,29,5,1674037386,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674037360,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674037360,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674037360,"~\\aliases.bat"
 -'  1  0  ~\aliases.bat
 |4,39,1,0,1674037360,"~\\aliases.bat"
 -'  1  0  ~\aliases.bata
 |4,39,1,0,1674037357,"~\\aliases.bata"
 -'  1  0  ~\aliases.bata
 |4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  1  0  ~\aliases.bata
+|4,39,1,0,1674037357,"~\\aliases.bata"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
+-'  48  20  ~\_vimrc
+|4,39,48,20,1674037308,"~\\_vimrc"
 -'  48  20  ~\_vimrc
 |4,39,48,20,1674037308,"~\\_vimrc"
 -'  48  20  ~\_vimrc
@@ -225,6 +323,30 @@ $
 |4,39,29,32,1674037013,"~\\aliases.bat"
 -'  29  32  ~\aliases.bat
 |4,39,29,32,1674037013,"~\\aliases.bat"
+-'  29  32  ~\aliases.bat
+|4,39,29,32,1674037013,"~\\aliases.bat"
+-'  29  32  ~\aliases.bat
+|4,39,29,32,1674037013,"~\\aliases.bat"
+-'  29  32  ~\aliases.bat
+|4,39,29,32,1674037013,"~\\aliases.bat"
+-'  29  32  ~\aliases.bat
+|4,39,29,32,1674037013,"~\\aliases.bat"
+-'  29  32  ~\aliases.bat
+|4,39,29,32,1674037013,"~\\aliases.bat"
+-'  29  32  ~\aliases.bat
+|4,39,29,32,1674037013,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674036951,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674036951,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674036951,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674036951,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674036951,"~\\aliases.bat"
+-'  1  0  ~\aliases.bat
+|4,39,1,0,1674036951,"~\\aliases.bat"
 -'  1  0  ~\aliases.bat
 |4,39,1,0,1674036951,"~\\aliases.bat"
 -'  1  0  ~\aliases.bat
@@ -245,222 +367,97 @@ $
 |4,39,3,7,1674036923,"~\\.gitignore"
 -'  3  7  ~\.gitignore
 |4,39,3,7,1674036923,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674036893,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674036893,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674036893,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674036893,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674036893,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674036893,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674036893,"~\\.gitignore"
--'  1  0  ~\.gitignore
-|4,39,1,0,1674036893,"~\\.gitignore"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  1  12  ~\gitPush.bat
-|4,39,1,12,1674036807,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  2  0  ~\gitPush.bat
-|4,39,2,0,1674036792,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  7  0  ~\gitPush.bat
-|4,39,7,0,1674036776,"~\\gitPush.bat"
--'  6  0  ~\gitPush.bat
-|4,39,6,0,1674036776,"~\\gitPush.bat"
--'  1  0  ~\gitPush.bat
-|4,39,1,0,1674036745,"~\\gitPush.bat"
--'  1  0  ~\gitPush.bat
-|4,39,1,0,1674036745,"~\\gitPush.bat"
--'  1  0  ~\gitPush.bat
-|4,39,1,0,1674036745,"~\\gitPush.bat"
--'  1  0  ~\gitPush.bat
-|4,39,1,0,1674036745,"~\\gitPush.bat"
--'  1  0  ~\gitPush.bat
-|4,39,1,0,1674036745,"~\\gitPush.bat"
--'  1  0  ~\gitPush.bat
-|4,39,1,0,1674036745,"~\\gitPush.bat"
--'  1  0  ~\gitPush.bat
-|4,39,1,0,1674036745,"~\\gitPush.bat"
--'  1  0  ~\gitPush.bat
-|4,39,1,0,1674036745,"~\\gitPush.bat"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
 
 # History of marks within files (newest to oldest):
 
 > ~\aliases.bat
-	*	1674037380	0
-	"	29	5
-	^	30	0
-	.	29	22
+	*	1674039783	0
+	"	12	21
+	^	12	22
+	.	12	21
 	+	1	1
 	+	2	1
 	+	2	2
 	+	1	0
-	+	15	17
-	+	18	16
-	+	32	0
+	+	16	17
+	+	19	16
+	+	33	0
 	+	2	0
-	+	28	7
+	+	29	7
 	+	11	0
-	+	14	0
 	+	15	0
-	+	18	0
+	+	16	0
 	+	19	0
 	+	20	0
 	+	21	0
 	+	22	0
 	+	23	0
-	+	26	0
+	+	24	0
+	+	27	0
 	+	8	0
-	+	25	0
+	+	26	0
 	+	3	55
 	+	7	0
 	+	4	0
 	+	5	17
-	+	32	14
+	+	33	14
 	+	5	1
-	+	28	1
-	+	13	22
-	+	16	17
-	+	12	16
-	+	23	17
-	+	24	14
-	+	9	15
-	+	33	0
-	+	31	0
-	+	29	20
-	+	14	17
+	+	29	1
+	+	14	22
+	+	17	17
 	+	13	16
-	+	29	22
-
-> ~\aliases.bata
-	*	1674037356	0
-	"	1	0
+	+	24	17
+	+	25	14
+	+	9	15
+	+	34	0
+	+	32	0
+	+	30	20
+	+	15	17
+	+	14	16
+	+	30	22
+	+	12	21
 
 > ~\_vimrc
-	*	1674037305	0
-	"	48	20
+	*	1674039105	0
+	"	79	0
 	^	48	27
 	.	48	26
 	+	78	0
@@ -561,6 +558,15 @@ $
 	a	58	0
 	z	13	0
 
+> ~\Documents\AutoHotkey\myHotKeys.ahk
+	*	1674038290	0
+	"	20	0
+	^	1	0
+
+> ~\aliases.bata
+	*	1674037356	0
+	"	1	0
+
 > ~\.gitignore
 	*	1674036922	0
 	"	3	7
@@ -584,11 +590,6 @@ $
 	+	6	0
 	+	5	1
 	+	1	12
-
-> ~\Documents\AutoHotkey\myHotKeys.ahk
-	*	1674035584	0
-	"	37	6
-	^	1	0
 
 > ~\.gitconfig
 	*	1674034856	0
