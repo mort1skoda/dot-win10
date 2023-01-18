@@ -44,5 +44,5 @@ CapsLock::Esc
 
 #g::Run "C:\Users\Monica\gVim"
 
-#f::RUN "C:Users\Monica\vifm"
+#f::RUN "C:\Users\Monica\vifm\vifm"
 
