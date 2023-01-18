@@ -23,7 +23,8 @@ doskey ,eb=gVim bashrc.bat
 doskey ,ep=gVim profile.bat
 doskey ,ev=gVim _vimrc
 doskey   c=type $*
-doskey   q=exit
+doskey   q=quit.bat
+
 ::---------------------------------------------}}}
 
 ::--- alias git -----------{{{
@@ -37,4 +38,6 @@ doskey  gs=git status
 ::doskey /macros:all
 doskey /macros
 ::----------------------------------------}}}
+
+
 

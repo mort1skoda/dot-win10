@@ -7,3 +7,6 @@ bashrc.bat
 echo
 echo '--- end   profile ---'
 
+git remote -v
+
+

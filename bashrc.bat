@@ -9,5 +9,7 @@ echo windir      = %windir%
 :: source aliases.bat
 aliases.bat
 
+git remote -v
+
 
 
