@@ -1,2 +1,5 @@
-gp
+git push
+
+exit
+
 
