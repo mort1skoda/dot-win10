@@ -21,7 +21,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1674036807,,"wq"
+|2,0,1674036923,,"wq"
 :q
 |2,0,1674035586,,"q"
 :!dir
@@ -183,36 +183,50 @@ $
 |3,1,36,0,1,0,1674036772,"t"
 
 # File marks:
-'0  1  12  ~\gitPush.bat
-|4,48,1,12,1674036807,"~\\gitPush.bat"
-'1  7  0  ~\gitPush.bat
-|4,49,7,0,1674036776,"~\\gitPush.bat"
-'2  6  0  ~\gitPush.bat
-|4,50,6,0,1674036776,"~\\gitPush.bat"
-'3  5  0  ~\gitPush.bat
-|4,51,5,0,1674036721,"~\\gitPush.bat"
+'0  3  7  ~\.gitignore
+|4,48,3,7,1674036923,"~\\.gitignore"
+'1  1  12  ~\gitPush.bat
+|4,49,1,12,1674036807,"~\\gitPush.bat"
+'2  7  0  ~\gitPush.bat
+|4,50,7,0,1674036776,"~\\gitPush.bat"
+'3  6  0  ~\gitPush.bat
+|4,51,6,0,1674036776,"~\\gitPush.bat"
 '4  5  0  ~\gitPush.bat
 |4,52,5,0,1674036721,"~\\gitPush.bat"
-'5  4  0  ~\gitPush.bat
-|4,53,4,0,1674036721,"~\\gitPush.bat"
+'5  5  0  ~\gitPush.bat
+|4,53,5,0,1674036721,"~\\gitPush.bat"
 '6  4  0  ~\gitPush.bat
 |4,54,4,0,1674036721,"~\\gitPush.bat"
-'7  23  7  ~\.gitignore
-|4,55,23,7,1674036595,"~\\.gitignore"
-'8  24  0  ~\.gitignore
-|4,56,24,0,1674036564,"~\\.gitignore"
-'9  24  0  ~\.gitignore
-|4,57,24,0,1674036564,"~\\.gitignore"
+'7  4  0  ~\gitPush.bat
+|4,55,4,0,1674036721,"~\\gitPush.bat"
+'8  23  7  ~\.gitignore
+|4,56,23,7,1674036595,"~\\.gitignore"
+'9  23  7  ~\.gitignore
+|4,57,23,7,1674036595,"~\\.gitignore"
 
 # Jumplist (newest first):
+-'  3  7  ~\.gitignore
+|4,39,3,7,1674036923,"~\\.gitignore"
+-'  1  0  ~\.gitignore
+|4,39,1,0,1674036893,"~\\.gitignore"
 -'  1  12  ~\gitPush.bat
 |4,39,1,12,1674036807,"~\\gitPush.bat"
+-'  1  12  ~\gitPush.bat
+|4,39,1,12,1674036807,"~\\gitPush.bat"
+-'  2  0  ~\gitPush.bat
+|4,39,2,0,1674036792,"~\\gitPush.bat"
 -'  2  0  ~\gitPush.bat
 |4,39,2,0,1674036792,"~\\gitPush.bat"
 -'  7  0  ~\gitPush.bat
 |4,39,7,0,1674036776,"~\\gitPush.bat"
 -'  6  0  ~\gitPush.bat
 |4,39,6,0,1674036776,"~\\gitPush.bat"
+-'  7  0  ~\gitPush.bat
+|4,39,7,0,1674036776,"~\\gitPush.bat"
+-'  6  0  ~\gitPush.bat
+|4,39,6,0,1674036776,"~\\gitPush.bat"
+-'  1  0  ~\gitPush.bat
+|4,39,1,0,1674036745,"~\\gitPush.bat"
 -'  1  0  ~\gitPush.bat
 |4,39,1,0,1674036745,"~\\gitPush.bat"
 -'  5  0  ~\gitPush.bat
@@ -221,6 +235,14 @@ $
 |4,39,4,0,1674036721,"~\\gitPush.bat"
 -'  4  0  ~\gitPush.bat
 |4,39,4,0,1674036721,"~\\gitPush.bat"
+-'  5  0  ~\gitPush.bat
+|4,39,5,0,1674036721,"~\\gitPush.bat"
+-'  4  0  ~\gitPush.bat
+|4,39,4,0,1674036721,"~\\gitPush.bat"
+-'  4  0  ~\gitPush.bat
+|4,39,4,0,1674036721,"~\\gitPush.bat"
+-'  1  0  ~\gitPush.bat
+|4,39,1,0,1674036643,"~\\gitPush.bat"
 -'  1  0  ~\gitPush.bat
 |4,39,1,0,1674036643,"~\\gitPush.bat"
 -'  23  7  ~\.gitignore
@@ -239,6 +261,8 @@ $
 |4,39,23,7,1674036595,"~\\.gitignore"
 -'  23  7  ~\.gitignore
 |4,39,23,7,1674036595,"~\\.gitignore"
+-'  23  7  ~\.gitignore
+|4,39,23,7,1674036595,"~\\.gitignore"
 -'  1  0  ~\.gitignore
 |4,39,1,0,1674036583,"~\\.gitignore"
 -'  1  0  ~\.gitignore
@@ -255,6 +279,8 @@ $
 |4,39,1,0,1674036583,"~\\.gitignore"
 -'  1  0  ~\.gitignore
 |4,39,1,0,1674036583,"~\\.gitignore"
+-'  24  0  ~\.gitignore
+|4,39,24,0,1674036564,"~\\.gitignore"
 -'  24  0  ~\.gitignore
 |4,39,24,0,1674036564,"~\\.gitignore"
 -'  24  0  ~\.gitignore
@@ -367,46 +393,34 @@ $
 |4,39,13,16,1674036492,"~\\aliases.bat"
 -'  13  16  ~\aliases.bat
 |4,39,13,16,1674036492,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
--'  1  0  ~\aliases.bat
-|4,39,1,0,1674036459,"~\\aliases.bat"
+-'  13  16  ~\aliases.bat
+|4,39,13,16,1674036492,"~\\aliases.bat"
+-'  13  16  ~\aliases.bat
+|4,39,13,16,1674036492,"~\\aliases.bat"
+-'  13  16  ~\aliases.bat
+|4,39,13,16,1674036492,"~\\aliases.bat"
+-'  13  16  ~\aliases.bat
+|4,39,13,16,1674036492,"~\\aliases.bat"
+-'  13  16  ~\aliases.bat
+|4,39,13,16,1674036492,"~\\aliases.bat"
+-'  13  16  ~\aliases.bat
+|4,39,13,16,1674036492,"~\\aliases.bat"
 
 # History of marks within files (newest to oldest):
+
+> ~\.gitignore
+	*	1674036922	0
+	"	3	7
+	^	3	8
+	.	3	7
+	+	1	9
+	+	20	0
+	+	21	11
+	+	15	0
+	+	16	6
+	+	22	11
+	+	23	8
+	+	3	7
 
 > ~\gitPush.bat
 	*	1674036807	0
@@ -417,19 +431,6 @@ $
 	+	6	0
 	+	5	1
 	+	1	12
-
-> ~\.gitignore
-	*	1674036593	0
-	"	23	7
-	^	24	0
-	.	23	8
-	+	1	9
-	+	20	0
-	+	21	11
-	+	15	0
-	+	16	6
-	+	22	11
-	+	23	8
 
 > ~\aliases.bat
 	*	1674036490	0

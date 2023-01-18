@@ -1,6 +1,6 @@
 # ignore:
 .android
-AppData
+AppData*
 bin
 Contacts
 Desktop
