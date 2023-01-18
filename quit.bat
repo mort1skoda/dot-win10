@@ -1,5 +1,6 @@
 gitPush.bat
 
 exit
+exit
 
 
