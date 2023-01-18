@@ -28,10 +28,11 @@ doskey   q=quit.bat
 ::---------------------------------------------}}}
 
 ::--- alias git -----------{{{
-doskey  gp=gitPush.bat
+doskey   gp=%userprofile%\gitPush.bat
+doskey   gr=git remote -v
+doskey   gs=git status
+doskey ,egi=vim %HOMEPATH%\.gitignore
 
-doskey  gr=git remote -v
-doskey  gs=git status
 ::-------------------------}}}
 
 ::--- alias show all my aliases ----------{{{
